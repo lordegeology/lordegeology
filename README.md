@@ -27,7 +27,7 @@
 ## 🌐 Find Me  
 📫 **ankitashok01@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/ankit-ashok-83b9561a0/)  
-[📄 View my Resume](https://lordegeology.github.io/Ankit_Ashok_Resume_Sept_2025.pdf)
+📄 [View my Resume](https://lordegeology.github.io/lordegeology/Ankit_Ashok_Resume_Sept_2025.pdf)
 
 ---
 
