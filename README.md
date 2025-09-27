@@ -35,7 +35,8 @@
 
 ## 🌐 Connect with Me  
 📫 **ankitashok01@gmail.com**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-ashok-83b9561a0/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/lordegeology)  
 
 ---
