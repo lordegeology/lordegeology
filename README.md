@@ -18,7 +18,7 @@
 ---
 
 ## 🛠️ Learning/Working On:  
-- **Agentic AI** → LangGraph, RAG pipelines, multimodal Gen AI.  
+- **Agentic AI** → LangGraph, RAG pipelines, multimodal LLMs.  
 - **Finance x AI** → interested in quant strategies and developments in the use of AI in the fintech space.  
 - **Automation** → making dashboards, pipelines, and workflows so I don’t have to do things twice.  
 
