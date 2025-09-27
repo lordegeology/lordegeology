@@ -1,6 +1,6 @@
 # Hey, I'm Ankit!
 
-🎯 **Data Scientist | Quant Enthusiast | AI/ML Engineer**  
+**Data Scientist | Quant Enthusiast | AI/ML Engineer**  
 
 ---
 
@@ -17,9 +17,9 @@
   
 ---
 
-## 🛠️ Current Obsessions  
+## 🛠️ Learning/Working On:  
 - **Agentic AI** → LangGraph, RAG pipelines, multimodal Gen AI.  
-- **Finance x AI** → still geeking out about time series models & quant strategies.  
+- **Finance x AI** → interested in quant strategies and developments in the use of AI in the fintech space.  
 - **Automation** → making dashboards, pipelines, and workflows so I don’t have to do things twice.  
 
 ---
