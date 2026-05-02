@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 What I Do  
-- 💼 By day: **AI/ML Analyst at Deloitte USI**: currently building **agentic workflows** with LangGraph and AWS. *Super glamorous stuff!*  
+- 💼 By day: **AI Engineer at Deloitte USI**: currently building **agentic workflows** with LangGraph and AWS. *Super glamorous stuff!*  
 - 📈 Previously: did **quant research at Futures First** (built ARIMAX & LSTM models to predict markets), interned at **Genpact** (optimized ML pipelines for a media giant), and dabbled in epidemiological analysis of COVID-19 (SARS-CoV-2) gene sequences using NLP at **IIIT-Delhi**.  
 - 📝 Published a paper at **IMECE2023** on 3D printing & fracture energy ([check it out!!](https://doi.org/10.1115/IMECE2023-112241)) - *got to play around with 3D printers; it was pretty cool!*  
 
